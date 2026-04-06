@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # P2P Marketplace - Complete Full-Stack Solution
 
 A production-ready Flutter mobile app + Node.js backend for a peer-to-peer marketplace platform. Includes Firebase authentication, real-time chat (coming soon), secure payments with Razorpay, and comprehensive review system.
@@ -405,3 +406,21 @@ For issues or questions:
 **Version**: 0.1.0
 
 Start building your marketplace! 🚀
+=======
+# demo_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 5fce7980983d30dd11a5e42c1ba46a181841942e
